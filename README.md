@@ -1,3 +1,8 @@
+
+### This code is associated with the paper from Turner-Evans et al., "Angular velocity integration in a fly heading circuit". eLife, 2017. http://dx.doi.org/10.7554/eLife.23496
+
+
+
 This repository contains the code associated to the paper:
 
 [*Angular velocity integration in a fly heading circuit*](http://dx.doi.org/10.7554/eLife.23496)
